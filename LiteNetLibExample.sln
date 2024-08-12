@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteNetLibExample", "LiteNetLibExample\LiteNetLibExample.csproj", "{3579A39E-3F8F-462B-A77A-E1D97D8E0458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3579A39E-3F8F-462B-A77A-E1D97D8E0458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3579A39E-3F8F-462B-A77A-E1D97D8E0458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3579A39E-3F8F-462B-A77A-E1D97D8E0458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3579A39E-3F8F-462B-A77A-E1D97D8E0458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CBE163A-6CAE-44E9-8726-16D338AA64D2}
+	EndGlobalSection
+EndGlobal
